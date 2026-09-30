@@ -1,2 +1,2 @@
 # BOZ213d01a01_muharrem_karapıçak
-Kenar uzunlukları girilen dikdörtgenin alanını hesaplar
+Kısa ve uzun kenar uzunluğu yazıldıktan sonra bize dikdörgenin alanını verir.
