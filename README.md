@@ -1,2 +1,2 @@
-# dikdortgen-alan-hesabi
+# BOZ213d01a01_muharrem_karapıçak
 Kenar uzunlukları girilen dikdörtgenin alanını hesaplar
